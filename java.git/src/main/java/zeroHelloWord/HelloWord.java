@@ -5,7 +5,7 @@ public class HelloWord {
 //comando para imprimir no console (System.out.print)
 	
 	public static void main(String[] args) {
-		System.out.println("Hello Word ! ! !");
+		System.out.println("Ola Mundo ! ! !");
 		System.out.println();
 		
 //comando para pular linha( \n)
